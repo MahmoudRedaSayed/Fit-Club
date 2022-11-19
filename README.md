@@ -5,3 +5,6 @@
 
 ## video demo
 ![](https://github.com/MahmoudRedaSayed/Fit-Club/blob/main/videos/Demo.gif)
+
+## deployed
+https://fit-club-two.vercel.app/
